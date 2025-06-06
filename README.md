@@ -46,3 +46,8 @@ https://youtu.be/d1l_rFYWZfQ
 3. Execute o programa
 
 - py main.py
+
+## Integrantes
+- Açussena Macedo - 552568
+- Fabrício Saavedra - 97631
+- Guilherme Akio - 98582
